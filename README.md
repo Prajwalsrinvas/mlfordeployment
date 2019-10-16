@@ -1,2 +1,2 @@
 # mlfordeployment
-Assignments and solutions for the ML for deployment Course offered by ineuron
+Assignments and solutions for the ML for deployment course offered by ineuron
